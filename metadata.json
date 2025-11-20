@@ -1,0 +1,5 @@
+{
+  "name": "NeuroVis: Bio vs Artificial",
+  "description": "An interactive 3D exploration comparing biological spiking neurons with artificial neural network layers.",
+  "requestFramePermissions": []
+}
